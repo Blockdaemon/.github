@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://storage.googleapis.com/blockdaemon-app-static-images/marketing/SVG/SVG/dark-logo.svg" alt="Blockdaemon Logo">
+<img src="https://storage.googleapis.com/blockdaemon-app-static-images/marketing/PNG/github_banner.png" alt="Blockdaemon Logo">
 </p>
 
 <h1 align="center">Blockdaemon: The Institutional Gateway to Crypto</h1>
@@ -21,7 +21,6 @@ Blockdaemon is the gateway to the decentralized economy, securing over $110B in 
 - [Staking API demos using different wallets and SDKs](https://github.com/Blockdaemon/demo-stakingAPI)
 - [How to Deploy a Node with Blockdaemon](https://docs.blockdaemon.com/docs/how-to-deploy-a-node)
 - [Querying a Balance for any Crypto Wallet](https://docs.blockdaemon.com/reference/getlistofbalancesbyaddress)
-- [Webhooks](https://docs.blockdaemon.com/reference/events-introduction)
 - [Create and Send Transactions on multiple Networks](https://docs.blockdaemon.com/reference/introduction-txapi)
 - [Custom Bitcoin RPC Methods: Wallet Balances, List UTXOs etc...](https://docs.blockdaemon.com/reference/supported-bitcoin-custom-methods)
 - [Chain Watch - streaming on-chain events in real-time](https://github.com/Blockdaemon/demo-event-streaming)
