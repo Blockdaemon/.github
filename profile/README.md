@@ -38,7 +38,7 @@ Blockdaemon is the gateway to the decentralized economy, securing over $110B in 
 ## Solana
 
 - [Solana Cluster Manager](https://github.com/Blockdaemon/solana-cluster)
-- [Geyser Accounts Database Plugin](https://github.com/Blockdaemon/solana-accountsdb-plugin-kafka)
+- [Solana Geyser Kafka Plugin](https://github.com/Blockdaemon/solana-accountsdb-plugin-kafka)
 
 ### Solana Snapshot Delivery Network (SSDN)
 - [Solana Snapshot Gossip Client](https://github.com/Blockdaemon/agave-snapshot-gossip-client)
